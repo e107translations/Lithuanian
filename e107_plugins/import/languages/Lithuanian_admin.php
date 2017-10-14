@@ -1,0 +1,78 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("LAN_CONVERT_03", "Turite pradėti su švarus E107 duomenų bazę, išskyrus pagrindines administratoriaus vartotojo (ID = 1)");
+define("LAN_CONVERT_04", "Sritis (sritys) paliktas tuščias, grįžkite atgal ir iš naujo įveskite vertes.");
+define("LAN_CONVERT_05", "To scenarijaus veikimas gali ištuštinti nemažai E107 lentelių - įsitikinkite, kad turite visą atsarginę kopiją prieš tęsdami!");
+define("LAN_CONVERT_06", "Importo duomenų tipas");
+define("LAN_CONVERT_07", "CSV formato specifikacija");
+define("LAN_CONVERT_08", "Esamos duomenų bazės");
+define("LAN_CONVERT_09", "Šaltinio duomenų bazės ryšio informaciją");
+define("LAN_CONVERT_10", "Šaltinio failas slaptažodžiai nėra užkoduoti");
+define("LAN_CONVERT_11", "Šaltinio duomenų informacijos");
+define("LAN_CONVERT_12", "Pagrindinio vartotojo vardą ir slaptažodį");
+define("LAN_CONVERT_13", "CSV failą");
+define("LAN_CONVERT_14", "Importo duomenų bazės formatą");
+define("LAN_CONVERT_15", "Jokių importo konverterių yra");
+define("LAN_CONVERT_16", "Pradinė klasė (vartotojo)");
+define("LAN_CONVERT_17", "Neįvedus slaptažodžio, CSV faile nėra jau");
+define("LAN_CONVERT_18", "(Slaptažodį turi būti saugoma su MD5 šifravimo)");
+define("LAN_CONVERT_19", "Duomenų bazės");
+define("LAN_CONVERT_20", "Duomenų bazės vartotojo vardą");
+define("LAN_CONVERT_21", "Duomenų bazės slaptažodis");
+define("LAN_CONVERT_22", "Duomenų bazės pavadinimas");
+define("LAN_CONVERT_23", "Duomenų bazės lentelės priešvardis");
+define("LAN_CONVERT_24", "Sričių importuoti");
+define("LAN_CONVERT_25", "Vartotojai");
+define("LAN_CONVERT_26", "Forumas apibrėžimai");
+define("LAN_CONVERT_27", "Apklausos");
+define("LAN_CONVERT_28", "Naujienos");
+define("LAN_CONVERT_29", "Duomenų bazės importuoti, užpildytas");
+define("LAN_CONVERT_30", "Importavimo tvarką informacija");
+define("LAN_CONVERT_31", "CSV failo duomenų nėra, arba neteisingas teises");
+define("LAN_CONVERT_32", "CSV duomenų failo skaitymo klaida");
+define("LAN_CONVERT_33", "Klaidų CSV duomenys eilutėje");
+define("LAN_CONVERT_34", "Klaida:--ERRNUM--rašant vartotojo duomenų bazės, linija");
+define("LAN_CONVERT_35", "CSV importavimas baigtas. --LINIJOS--skaityti, - vartotojai - vartotojų įtraukė,--klaidos - klaidas");
+define("LAN_CONVERT_36", "CSV duomenys, failo pavadinimas");
+define("LAN_CONVERT_37", "Neteisingo formato specifikacija importo tipu");
+define("LAN_CONVERT_38", "Esančių duomenų panaikinti");
+define("LAN_CONVERT_39", "(Jei ne, importuotus duomenis plakatai bus rodomas kaip 'Anonimas')");
+define("LAN_CONVERT_40", "Esami duomenys ištrinti");
+define("LAN_CONVERT_41", "Reikalingas duomenų bazės prieigos laukas yra tuščias");
+define("LAN_CONVERT_42", "Klaida apibrėžties failo - reikia klasės neegzistuoja");
+define("LAN_CONVERT_43", "Klaida jungiantis prie šaltinio duomenų bazės");
+define("LAN_CONVERT_44", "Užklausos sąrankos klaida");
+define("LAN_CONVERT_45", "Negaliu skaityti importo kodo rinkmena");
+define("LAN_CONVERT_46", "Klaida:--ERRNUM--rašant--dB – duomenų bazė, linija");
+define("LAN_CONVERT_47", "Partijos--bendrosios--importavimas baigtas. --LINIJOS--skaityti,--NAUDOTOJAIS - papildomas,--klaidos - klaidas");
+define("LAN_CONVERT_48", "Forumo pranešimai");
+define("LAN_CONVERT_49", "Drupal");
+define("LAN_CONVERT_50", "Pagrindinės importo");
+define("LAN_CONVERT_51", "Dll versija yra tikslingai Drupal.");
+define("LAN_CONVERT_52", "Drupal versija");
+define("LAN_CONVERT_53", "Bazinis URL Drupal svetainėje (pvz., http://mydrupalsite.com).");
+define("LAN_CONVERT_54", "Drupal bazinis URL");
+define("LAN_CONVERT_55", "Bazinis URL kelias (t. y. katalogas) Drupal įrenginio (pvz., drupal /kg).");
+define("LAN_CONVERT_56", "Drupal bazėje kelias");
+define("LAN_CONVERT_57", "Jokios klaidos");
+define("LAN_CONVERT_58", "Can\'t pakeisti pagrindines administratoriaus duomenų");
+define("LAN_CONVERT_59", "Netinkamas lauko praėjo");
+define("LAN_CONVERT_60", "Privalomame lauke nėra nustatytas");
+define("LAN_CONVERT_61", "Vartotojas jau yra");
+define("LAN_CONVERT_62", "Neteisingi simboliai vartotojo prisijungimo vardu");
+define("LAN_CONVERT_63", "Klaida įrašant išplėstas vartotojo laukai");
+define("LAN_CONVERT_64", "Pasirinkite");
+define("LAN_CONVERT_65", "Puslapiai");
+define("LAN_CONVERT_66", "Puslapis skyriuose");
+define("LAN_CONVERT_67", "Nuorodos");
+define("LAN_CONVERT_68", "Žiniasklaida");
+define("LAN_CONVERT_69", "Forumas");
+define("LAN_CONVERT_70", "Forumo temos/straipsniai");
+define("LAN_CONVERT_71", "Forumo pranešimai");
+define("LAN_CONVERT_72", "Forumas Track");
+define("LAN_CONVERT_73", "Userclasses");
+define("LAN_CONVERT_74", "Naujienų kategorijos");

@@ -1,0 +1,71 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("COMLAN_0", "[blokuotas administratoriaus]");
+define("COMLAN_1", "Atblokuoti");
+define("COMLAN_2", "Blokas");
+define("COMLAN_4", "Info");
+define("COMLAN_5", "Komentarai...");
+define("COMLAN_6", "Jūs turite būti prisijungęs kad pateikti pastabas šioje svetainėje - prašome prisijungti, arba jei nesate registruotas spustelėkite");
+define("COMLAN_7", "Pagrindinės svetainės administratorius");
+define("COMLAN_8", "Komentaras");
+define("COMLAN_9", "Pridėti komentarą");
+define("COMLAN_10", "Administratorius");
+define("COMLAN_11", "Nesugebėjo įvesti komentarą į duomenų bazę - iš naujo įveskite neįtraukdama nestandartinių simbolių.");
+define("COMLAN_12", "Vartotojo");
+define("COMLAN_16", "Vartotojo vardas:");
+define("COMLAN_100", "Naujienos");
+define("COMLAN_101", "Apklausa");
+define("COMLAN_102", "Atsakymas į:");
+define("COMLAN_103", "Straipsnis");
+define("COMLAN_104", "Peržiūra");
+define("COMLAN_105", "Turinys");
+define("COMLAN_106", "Atsisiųsti");
+define("COMLAN_145", "Registruota:");
+define("COMLAN_194", "Svečių");
+define("COMLAN_195", "Registruotas narys");
+define("COMLAN_310", "Negali priimti post, nes tas naudotojo vardas yra registruotas - jei tai yra jūsų naudotojo vardas, prašome prisijungti, kad Parašyk.");
+define("COMLAN_312", "Zduplikowane paštu - negali priimti.");
+define("COMLAN_313", "Vieta");
+define("COMLAN_314", "vidutinio sunkumo komentarai");
+define("COMLAN_315", "Trackback");
+define("COMLAN_316", "Šis newspost trackbacks.");
+define("COMLAN_317", "Vidutinio sunkumo Trackback");
+define("COMLAN_318", "Redaguoti komentarą");
+define("COMLAN_319", "redagavo");
+define("COMLAN_320", "Atnaujinti komentarų");
+define("COMLAN_321", "čia");
+define("COMLAN_322", "registracijos");
+define("COMLAN_323", "Įvyko klaida!");
+define("COMLAN_324", "Tema");
+define("COMLAN_325", "Vėl:");
+define("COMLAN_326", "Atsakyti į šį");
+define("COMLAN_328", "Komentarai užrakinti");
+define("COMLAN_329", "Neleistinai");
+define("COMLAN_330", "IP:");
+define("COMLAN_331", "Laukia patvirtinimo");
+define("COMLAN_332", "Negalėjau ištrinti komentarą");
+define("COMLAN_333", "Patvirtintas komentarą");
+define("COMLAN_334", "Negalėjo patvirtinti komentarą");
+define("COMLAN_335", "Patvirtintas");
+define("COMLAN_336", "Parašykite ką nors pirmą kartą.");
+define("COMLAN_337", "Sėkmingai atnaujintas.");
+define("COMLAN_400", "patvirtintas");
+define("COMLAN_401", "užblokuotas");
+define("COMLAN_402", "laukiama");
+define("COMLAN_403", "Palikite žinutę...");
+define("COMLAN_404", "Patvirtinti");
+define("COMLAN_TYPE_1", "Naujienos");
+define("COMLAN_TYPE_2", "atsisiųsti");
+define("COMLAN_TYPE_3", "DUK");
+define("COMLAN_TYPE_4", "apklausa");
+define("COMLAN_TYPE_5", "dokumentai");
+define("COMLAN_TYPE_6", "bugtrack");
+define("COMLAN_TYPE_7", "idėjos");
+define("COMLAN_TYPE_8", "vartotojo profilio");
+define("COMLAN_TYPE_PAGE", "Turinys");
+define("COMLAN_500", "Prašome [prisijungti] palikti komentarą.");
+define("COMLAN_501", "Jei nesate dar prisiregistravę, galbūt [spauskite čia Norėdami užsiregistruoti].");

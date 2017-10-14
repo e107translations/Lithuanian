@@ -1,0 +1,78 @@
+<?php
+
+// Bing-Translated Language file 
+// Generated for e107 v2.x by the Multi-Language Plugin
+// https://github.com/e107inc/multilan
+
+define("PAGE_NAME", "Vartotojo nustatymai");
+define("MAX_AVWIDTH", "Maksimalus avataro dydis (wxh) yra");
+define("MAX_AVHEIGHT", "x");
+define("LAN_USET_1", "Jūsų personažas yra pernelyg plati");
+define("LAN_USET_2", "Didžiausias leistinas Plotis");
+define("LAN_USET_3", "Jūsų personažas yra per didelis");
+define("LAN_USET_4", "Didžiausias leidžiamas aukštis yra");
+define("LAN_USET_7", "Įvairūs");
+define("LAN_USET_8", "Vartotojo parašas");
+define("LAN_USET_9", "Kai kurių privalomus laukus (pažymėti a *) trūksta iš savo nustatymus.");
+define("LAN_USET_10", "Prašome atnaujinti savo parametrus dabar, siekiant tęsti.");
+define("LAN_USET_11", "Toks vartotojo vardas negali būti pripažinta galiojanti, pasirinkite kitą vartotojo vardą");
+define("LAN_USET_12", "Šis ekranas pavadinimas yra per trumpas. Prašome pasirinkti kitą");
+define("LAN_USET_13", "Neteisingi simboliai vartotojo vardą. Prašome pasirinkti kitą");
+define("LAN_USET_14", "Prisijungimo vardas per ilgas. Prašome pasirinkti kitą");
+define("LAN_USET_15", "Rodomas pavadinimas per ilgas. Prašome pasirinkti kitą");
+define("LAN_USET_16", "Pažymėkite žymės langelį ištrinti esamą nuotrauką įkelti kitą");
+define("LAN_USET_17", "Rodomas pavadinimas jau naudojamas. Prašome pasirinkti kitą");
+define("LAN_USET_18", "Vartotojo duomenys pakeisti admin:--ID--, prisijungimo vardas:--LOGNAME--");
+define("LAN_USET_20", "Taip pat turite pakeisti vartotojo slaptažodį, jei keičiate savo prisijungimo vardą arba el. pašto adresą");
+define("LAN_USET_21", "Patvirtinkite pakeitimus įvesdami savo slaptažodį iš naujo:");
+define("LAN_USET_23", "Palikti tuščią, kad išlaikytumėte esamą slaptažodį");
+define("LAN_USET_24", "Naujas slaptažodis:");
+define("LAN_USET_25", "Dar kartą įveskite naują slaptažodį:");
+define("LAN_USET_26", "Įkelti savo avatar");
+define("LAN_USET_27", "Įkelkite savo nuotrauką");
+define("LAN_USET_28", "Tai bus rodomas jūsų profilio puslapyje");
+define("LAN_USET_30", "kas tai?");
+define("LAN_USET_31", "Registracijos informacija");
+define("LAN_USET_32", "Atkreipkite dėmesį: nuotraukos įkeltos į šį serverį, kuriame yra laikomas administratoriams bus ištrinti iš karto.");
+define("LAN_USET_33", "Pasirinkite svetainės saugomi Avataras");
+define("LAN_USET_34", "Naudoti nuotolinio Avataras");
+define("LAN_USET_35", "Įveskite visą adresą į atvaizdą");
+define("LAN_USET_36", "Spustelėkite mygtuką, kad pamatytumėte avatarai saugomi šioje svetainėje");
+define("LAN_USET_37", "Išsaugoti nustatymus");
+define("LAN_USET_38", "Pasirinkti Avataras");
+define("LAN_USET_39", "Atnaujinti vartotojo parametrai");
+define("LAN_USET_40", "Du slaptažodžiai nesutampa");
+define("LAN_USET_41", "Parametrus, atnaujinti ir išsaugoti į duomenų bazę.");
+define("LAN_USET_42", "Nesutampa patvirtinimo raktas");
+define("LAN_USET_43", "Klaida naujinant vartotojo duomenis");
+define("LAN_7", "Rodomas vardas:");
+define("LAN_8", "pavadinimas, rodomas svetainėje");
+define("LAN_9", "Vartotojo vardas:");
+define("LAN_10", "vardas, kurį naudojate Norėdami prisijungti prie svetainės");
+define("LAN_112", "El. pašto adresas:");
+define("LAN_113", "Slėpti el. pašto adresą?");
+define("LAN_114", "Tai neleis jūsų el. pašto adresas bus rodomas svetainėje");
+define("LAN_120", "Parašas:");
+define("LAN_122", "Laiko juosta:");
+define("LAN_152", "Naujas slaptažodis:");
+define("LAN_153", "Dar kartą įveskite naują slaptažodį:");
+define("LAN_154", "Išsaugoti nustatymus");
+define("LAN_308", "Tikrasis vardas:");
+define("LAN_401", "Palikti tuščią, kad išlaikytumėte esamą slaptažodį");
+define("LAN_404", "Atkreipkite dėmesį: nuotraukos įkeltos į šį serverį, kuriame yra laikomas administratoriams bus ištrinti iš karto.");
+define("LAN_414", "Įkelkite savo nuotrauką");
+define("LAN_415", "Įkelti savo avatar");
+define("LAN_418", "Registracijos informacija");
+define("LAN_420", "Avataras");
+define("LAN_421", "Pasirinkite svetainės saugomi Avataras");
+define("LAN_422", "Naudoti nuotolinio Avataras");
+define("LAN_423", "Įveskite visą adresą į atvaizdą");
+define("LAN_424", "Spustelėkite mygtuką, kad pamatytumėte avatarai saugomi šioje svetainėje");
+define("LAN_425", "Nuotrauka");
+define("LAN_426", "Tai bus rodomas jūsų profilio puslapyje");
+define("LAN_433", "URL į savo XUP failą");
+define("LAN_434", "kas tai?");
+define("LAN_435", "Vartotojo protokolas XML failą");
+define("LAN_CUSTOMTITLE", "Pasirinktinį pavadinimą");
+define("LAN_USET_5", "Užsiregistravau");
+define("LAN_USET_6", "Prenumeruoti mūsų pašto adresų-šiuos ir (arba) skirsnius šią svetainę.");
